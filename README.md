@@ -5,27 +5,6 @@ This project is for learning and practicing **frontend web development**.
 
 ---
 
-## 📂 Project Structure
-
-Spotify_Clone/
-│── index.html # Main HTML file
-│── style.css # CSS styling
-│── images/ # Folder containing project images (icons, covers, etc.)
-│ ├── backward_icon.png
-│ ├── forward_icon.png
-│ ├── library_icon.png
-│ ├── player_icon1.png
-│ ├── player_icon2.png
-│ ├── player_icon3.png
-│ ├── player_icon4.png
-│ ├── player_icon5.png
-│ ├── card1img.jpeg
-│ ├── card2img.jpeg
-│ ├── card3img.jpeg
-│ ├── card4img.jpeg
-│ ├── card5img.jpeg
-│ ├── card6img.jpeg
-│ └── logo.png
 
 ## 🚀 Features
 
