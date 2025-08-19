@@ -27,9 +27,6 @@ Spotify_Clone/
 │ ├── card6img.jpeg
 │ └── logo.png
 
-
----
-
 ## 🚀 Features
 
 - 🎨 Modern **Spotify-like UI** with sidebar, library, and music player.  
